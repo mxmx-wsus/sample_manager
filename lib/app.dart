@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sample_manager/view_model/app_title.dart';
+import 'package:sample_manager/view_model/use_case.dart';
 
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
@@ -7,7 +7,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
-      home: AppTitle(),
+      home: App(),
     );
   }
 }
