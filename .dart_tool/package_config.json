@@ -80,6 +80,12 @@
       "languageVersion": "2.17"
     },
     {
+      "name": "flutter_screenutil",
+      "rootUri": "file:///Users/ikeaboy/.pub-cache/hosted/pub.dev/flutter_screenutil-5.9.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
       "name": "flutter_test",
       "rootUri": "file:///Users/ikeaboy/development/flutter/packages/flutter_test",
       "packageUri": "lib/",
@@ -314,7 +320,7 @@
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2024-06-15T06:38:05.355730Z",
+  "generated": "2024-06-15T07:05:06.554363Z",
   "generator": "pub",
   "generatorVersion": "3.4.3",
   "flutterRoot": "file:///Users/ikeaboy/development/flutter",
