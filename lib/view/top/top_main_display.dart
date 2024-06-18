@@ -8,8 +8,8 @@ class TopMainDisplay extends StatelessWidget {
   final String _songName = 'VHS.Chords';
   final String _artistName = 'Submerse';
   final String _songLengthLabel = 'Length : ';
-  final String _songBpmLabel = 'BPM : ';
-  final String _songKeyLabel = 'Key : ';
+  // final String _songBpmLabel = 'BPM : ';
+  // final String _songKeyLabel = 'Key : ';
 
 //updateTextというボタンが押された時の関数の箱を作る
 
@@ -21,28 +21,28 @@ class TopMainDisplay extends StatelessWidget {
         child: Column(children: [
           Text(
             _samplePositionLabel,
-            style: TextStyle(
+            style: const TextStyle(
               fontSize: 20.0,
               color: Color(0xff00C2FF),
             ),
           ),
           Text(
             _songName,
-            style: TextStyle(
+            style: const TextStyle(
               fontSize: 30.0,
               color: Color(0xff00C2FF),
             ),
           ),
           Text(
             _artistName,
-            style: TextStyle(
+            style: const TextStyle(
               fontSize: 20.0,
               color: Color(0xff00C2FF),
             ),
           ),
           Text(
             _songLengthLabel,
-            style: TextStyle(
+            style: const TextStyle(
               fontSize: 20.0,
               color: Color(0xff00C2FF),
             ),

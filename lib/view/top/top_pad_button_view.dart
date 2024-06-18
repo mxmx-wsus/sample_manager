@@ -1,7 +1,7 @@
 // Flutter imports:
 import 'package:flutter/material.dart';
-import 'package:sample_manager/component/edit_button.dart';
-import 'package:sample_manager/component/gradation_box.dart';
+// import 'package:sample_manager/component/edit_button.dart';
+// import 'package:sample_manager/component/gradation_box.dart';
 import 'package:sample_manager/component/pad_button.dart';
 
 class TopPadButtonArea extends StatelessWidget {
