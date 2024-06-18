@@ -49,16 +49,16 @@ class TopPadButtonArea extends StatelessWidget {
             ),
           ),
         ),
-        const Padding(
-          padding: const EdgeInsets.only(right: 40, left: 40),
-          child: Row(
-            mainAxisAlignment: MainAxisAlignment.spaceBetween,
-            children: const [
-              EditButton(),
-              // GradationBox(),
-            ],
-          ),
-        ),
+        // const Padding(
+        //   padding: const EdgeInsets.only(right: 40, left: 40),
+        //   child: Row(
+        //     mainAxisAlignment: MainAxisAlignment.spaceBetween,
+        //     children: const [
+        //       EditButton(),
+        //       // GradationBox(),
+        //     ],
+        //   ),
+        // ),
       ],
     );
   }

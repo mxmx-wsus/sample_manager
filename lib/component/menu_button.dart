@@ -22,7 +22,7 @@ class MenuButton extends StatelessWidget {
       },
       child: const Text(
         'M E N U',
-        style: TextStyle(fontSize: 20.0),
+        style: TextStyle(fontSize: 15.0),
       ),
     );
   }

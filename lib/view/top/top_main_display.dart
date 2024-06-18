@@ -47,20 +47,20 @@ class TopMainDisplay extends StatelessWidget {
               color: Color(0xff00C2FF),
             ),
           ),
-          Text(
-            _songBpmLabel,
-            style: TextStyle(
-              fontSize: 20.0,
-              color: Color(0xff00C2FF),
-            ),
-          ),
-          Text(
-            _songKeyLabel,
-            style: TextStyle(
-              fontSize: 20.0,
-              color: Color(0xff00C2FF),
-            ),
-          ),
+          // Text(
+          //   _songBpmLabel,
+          //   style: TextStyle(
+          //     fontSize: 20.0,
+          //     color: Color(0xff00C2FF),
+          //   ),
+          // ),
+          // Text(
+          //   _songKeyLabel,
+          //   style: TextStyle(
+          //     fontSize: 20.0,
+          //     color: Color(0xff00C2FF),
+          //   ),
+          // ),
         ]),
       ),
     );

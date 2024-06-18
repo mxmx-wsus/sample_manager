@@ -32,12 +32,12 @@ class TopPageView extends StatelessWidget {
             CustomPaint(
               painter: SeparateLine(),
             ),
-            // const SpaceBox(),
+            const SpaceBox(),
             const TopPadButtonArea(),
             CustomPaint(
               painter: SeparateLine(),
             ),
-            // const SpaceBox(),
+            const SpaceBox(),
             const FooterArea(),
           ])),
         ));

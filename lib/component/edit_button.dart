@@ -26,7 +26,7 @@ class EditButton extends StatelessWidget {
       },
       child: const Text(
         'E D I T',
-        style: TextStyle(fontSize: 20.0),
+        style: TextStyle(fontSize: 15.0),
       ),
     );
   }
